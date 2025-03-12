@@ -7,25 +7,25 @@
   },
   {
     "question": "what nba team logo is this?",
-    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/image.png",
+    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/image.jpeg",
     "options": ["Golden State Warriors", "Chicago Bulls", "Dallas Maverics", "Milwaukee bucks", "Maimi Heat"],
     "answer": "Chicago Bulls"
   },
   {
     "question": "what nba team logo is this?",
-    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/image.png",
+    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/dallas-mavericks.jpg",
     "options": ["Golden State Warriors", "Chicago Bulls", "Dallas Maverics", "Milwaukee bucks", "Maimi Heat"],
     "answer": "Dallas Maverics"
   },
   {
     "question": "what nba team logo is this?",
-    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/image.png",
+    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/04131f17-PI-NBA-NEW-Milwaukee-Bucks-New-Logo-4-041315.jpg.jpeg",
     "options": ["Golden State Warriors", "Chicago Bulls", "Dallas Maverics", "Milwaukee bucks", "Maimi Heat"],
     "answer": "Milwaukee bucks"
   },
   {
     "question": "what nba team logo is this?",
-    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/image.png",
+    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/images.jpeg",
     "options": ["Golden State Warriors", "Chicago Bulls", "Dallas Maverics", "Milwaukee bucks", "Maimi Heat"],
     "answer": "Maimi Heat"
   }
