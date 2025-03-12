@@ -1,6 +1,7 @@
 [
   {
     "question": "what nba team logo is this?",
+    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/image.png",
     "options": ["Golden State Warriors", "Chicago Bulls", "Dallas Maverics", "Milwaukee bucks", "Maimi Heat"],
     "answer": "Golden State Warriors"
   },
