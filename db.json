@@ -2,13 +2,13 @@
   {
     "question": "what nba team logo is this?",
     "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/image.png",
-    "options": ["Golden State Warriors", "Maimi Heat", "Dallas Maverics", "Milwaukee bucks"],
+    "options": ["Milwaukee bucks", "Golden State Warriors", "Maimi Heat", "Dallas Maverics"],
     "answer": "Golden State Warriors"
   },
   {
     "question": "what nba team logo is this?",
     "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/image.jpeg",
-    "options": ["Chicago Bulls", "Milwaukee bucks","Dallas Maverics", "Maimi Heat"],
+    "options": ["Dallas Maverics", "Maimi Heat", "Chicago Bulls", "Milwaukee bucks"],
     "answer": "Chicago Bulls"
   },
   {
@@ -26,7 +26,7 @@
   {
     "question": "what nba team logo is this?",
     "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/images.jpeg",
-    "options": ["Golden State Warriors", "Chicago Bulls", "Dallas Maverics", "Milwaukee bucks", "Maimi Heat"],
+    "options": ["Chicago Bulls", "Dallas Maverics", "Milwaukee bucks", "Maimi Heat"],
     "answer": "Maimi Heat"
   }
 ]
