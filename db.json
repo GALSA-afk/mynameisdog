@@ -1,33 +1,33 @@
 [
   {
-    "question": "what nba team logo is this?",
-    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/image.png",
-    "options": ["Milwaukee bucks", "Golden State Warriors", "Maimi Heat", "Dallas Maverics"],
-    "answer": "Golden State Warriors"
+    "question": "what is this nba player name?",
+    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/Bilal_Coulibaly_2024.jpg",
+    "options": ["Steven Kerr", "Bilal Coulabily", "jordan poole", "quinten post"],
+    "answer": "Bilal Coulabily"
   },
   {
-    "question": "what nba team logo is this?",
-    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/image.jpeg",
-    "options": ["Dallas Maverics", "Maimi Heat", "Chicago Bulls", "Milwaukee bucks"],
-    "answer": "Chicago Bulls"
+    "question": "what is this nba player name?",
+    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/Alex_Sarr_2024.jpg",
+    "options": ["Alex Sarr", "Yuki Kawamura", "Devin booker", "Zeke Nnaji"],
+    "answer": "Alex Sarr"
   },
   {
-    "question": "what nba team logo is this?",
-    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/dallas-mavericks.jpg",
-    "options": ["Milwaukee bucks", "Chicago Bulls", "Dallas Maverics", "Maimi Heat"],
-    "answer": "Dallas Maverics"
+    "question": "what is this nba player name?",
+    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/images%20(3).jpeg",
+    "options": ["Wilt Chamberlain", "Damain Lilard", "James Wiseman", "James Jonshon"],
+    "answer": "James Wiseman"
   },
   {
-    "question": "what nba team logo is this?",
-    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/04131f17-PI-NBA-NEW-Milwaukee-Bucks-New-Logo-4-041315.jpg.jpeg",
-    "options": [ "Chicago Bulls", "Milwaukee bucks", "Maimi Heat","Dallas Maverics"],
-    "answer": "Milwaukee bucks"
+    "question": "what is this nba player name",
+    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/images%20(4).jpeg",
+    "options": [ "Dennis Shroder", "Pat Spencer", "Jonathan Mogbo","Jonathan Isaac"],
+    "answer": "Jonathan Mogbo"
   },
   {
-    "question": "what nba team logo is this?",
-    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/images.jpeg",
-    "options": ["Chicago Bulls", "Dallas Maverics", "Milwaukee bucks", "Maimi Heat"],
-    "answer": "Maimi Heat"
+    "question": "what is this nba player name?",
+    "img-url": "https://raw.githubusercontent.com/GALSA-afk/mynameisdog/refs/heads/main/16784933426800.jpg",
+    "options": ["Georges Niang", "Greg Oden", "Jae Crowder", "Terry rozier"],
+    "answer": "Greg Oden"
   }
 ]
  
